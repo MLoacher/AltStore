@@ -1,16 +1,6 @@
- `https://qnblackcat.github.io/AltStore/apps.json`
+ `https://mloacher.github.io/AltStore/apps.json`
 
-[<img src='https://img.shields.io/badge/Add to AltStore-brightgreen.svg' alt='node-v1' />](altstore://source?URL=https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json) [<img src='https://img.shields.io/badge/View the source-blue.svg' alt='node-v1' />](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fqnblackcat.github.io%2FAltStore%2Fapps.json)
-
--------
-## _What is this?_
-
-👉 Welcome to my AltStore repo. This repo contains all of my tweaked apps, such as:
-- [uYouPlus](https://github.com/qnblackcat/uYouPlus/)
-- [Rocket for Instagram](https://github.com/qnblackcat/IGSideloadFix/)
-- [Facebook Wolf](https://github.com/qnblackcat/FBSideloadfix)
-- [RedditFilter](https://github.com/level3tjg/RedditFilter)
-- [BHTwitterPlus](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/) (Deprecated)
+[<img src='https://img.shields.io/badge/Add to AltStore-brightgreen.svg' alt='node-v1' />](altstore://source?URL=https://raw.githubusercontent.com/MLoacher/AltStore/refs/heads/gh-pages/apps.json) [<img src='https://img.shields.io/badge/View the source-blue.svg' alt='node-v1' />](https://github.com/MLoacher/AltStore)
 
 👉 To add the repo to AltStore, simply select **Add to AltStore** at the top of the page. For now, this feature is only available for patrons of AltStore.
 
