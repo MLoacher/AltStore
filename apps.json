@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.reddit.Reddit",
+      "bundleIdentifier": "dev.ech0.torbox.multiplatform.UTAC",
       "developerName": "ech0devv",
       "downloadURL": "https://github.com/ech0devv/utac/releases/download/v2.0-fix1/UTAC.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
